@@ -47,3 +47,7 @@ After data cleaning and wrangling. Below is the overview of the dataset.
 ![](images/cm_xgb.png)
 ![](images/roc_xbg.png)
 ![](images/importance_xgb.png)
+
+## 3. Take-home messenge
+* Duration is the most important feature used in the classifiers.
+* Employees stayed ~ 5 years are highly possible to leave.
