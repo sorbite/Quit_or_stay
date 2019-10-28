@@ -1,4 +1,4 @@
-# Quit_or_stay
+# Quit or Stay?
 Built classifer to figure out who will quit.
 
 ## Goal
