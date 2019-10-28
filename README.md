@@ -45,5 +45,5 @@ After data cleaning and wrangling. Below is the overview of the dataset.
 
 ## 2.3 XGBoost based classifier
 ![](images/cm_xgb.png)
-![](images/roc_xgb.png)
+![](images/roc_xbg.png)
 ![](images/importance_xgb.png)
